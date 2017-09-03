@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LedgerEX</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">BTC</string>
+    <string name="username_hint">UserName</string>
+    <string name="password_hint">Password</string>
+</resources>
